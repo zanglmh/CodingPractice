@@ -1,12 +1,3 @@
-/**
- * 
- */
-package baekjoon;
-
-/**
- * @author Min
- *
- */
 import java.util.*;
 public class Main1 {
 	
