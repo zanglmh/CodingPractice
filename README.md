@@ -1,4 +1,4 @@
-# BaekJoon
+
 # Coding Practice
 
 This repository is for the personal practice coding in Java (in Python in the future as well),
